@@ -3,10 +3,8 @@
 
   This application will generate a README.md file based off of the inputs from the user in a node.js terminal. These inputs are then writen to a new file that can be used in any project!
   
-  <img src="/photos/workingApp.gif">
+  <img src="/photos/terminal.jpg">
   
-  ![Sample Video](photos/workingVideo.mp4)
-
   ## Table of Contents
 
   - [Installation](#installation)
@@ -23,6 +21,8 @@
   ## Usage
 
   This project uses ES6 JavaScript to run this application. The user needs to open the index.js file in their node terminal and follow the inquirer promts. Once completed the file will be saved in the new-readme folder!
+  
+  <img src="/photos/workingApp.gif">
 
   ## License
 
