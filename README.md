@@ -5,7 +5,7 @@
   
   <img src="/photos/workingApp.gif">
   
-  <iframe src="https://drive.google.com/file/d/10VmfOAGagGw2dawJcHgrV6CKJam3UDUK/preview" width="640" height="480"></iframe>
+  ![Sample Video](/photos/workingVideo.mp4)
 
   ## Table of Contents
 
