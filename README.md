@@ -3,7 +3,7 @@
 
   This application will generate a README.md file based off of the inputs from the user in a node.js terminal. These inputs are then writen to a new file that can be used in any project!
   
-  <img src="/photos/terminal.jpg">
+  <img src="/photos/terminal.JPG">
   
   ## Table of Contents
 
