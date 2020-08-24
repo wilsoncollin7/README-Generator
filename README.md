@@ -1,7 +1,9 @@
-# README-Generator [![GitHub followers](https://img.shields.io/github/followers/wilsoncollin7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/wilsoncollin7?tab=followers) [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
-README generator using node.js and ES6 Javascript
+# this is a title 
+  [![GitHub followers](https://img.shields.io/github/followers/wilsoncollin7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/wilsoncollin7?tab=followers) 
 
-  # Table of Contents
+  description oif project
+
+  ## Table of Contents
 
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,25 +12,27 @@ README generator using node.js and ES6 Javascript
   - [Tests](#tests)
   - [Questions](#questions)
 
-  # Installation
+  ## Installation
 
-  asdfffffffff
+  install project
 
-  # Usage
+  ## Usage
 
-  asdfffffffff
-  # License
+  useage of project
 
-  asdfffffffff
+  ## License
 
-  # Contributing
+  This aplication is made with the 
 
-  asdfffffffff
+  ## Contributing
 
-  # Tests
+  contribute nothing
 
-  asdfffffffff
+  ## Tests
 
-  # Questions
+  test this
 
-  asdfffffffff
+  ## Questions
+
+  For any questions you might have, you can email me at wilsoncollin7@gmail.com. You can also check out my [GitHub Profile](https://github.com/wilsoncollin7).
+
