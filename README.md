@@ -1,7 +1,7 @@
-# this is a title 
-  [![GitHub followers](https://img.shields.io/github/followers/wilsoncollin7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/wilsoncollin7?tab=followers) 
+# t 
+  [![GitHub followers](https://img.shields.io/github/followers/wilsoncollin7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/wilsoncollin7?tab=followers) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-  description oif project
+  t
 
   ## Table of Contents
 
@@ -14,25 +14,27 @@
 
   ## Installation
 
-  install project
+  t
 
   ## Usage
 
-  useage of project
+  t
 
   ## License
 
-  This aplication is made with the 
+  This aplication is made with the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0)
 
   ## Contributing
 
-  contribute nothing
+  t
 
   ## Tests
 
-  test this
+  t
 
   ## Questions
 
   For any questions you might have, you can email me at wilsoncollin7@gmail.com. You can also check out my [GitHub Profile](https://github.com/wilsoncollin7).
+
+
 
