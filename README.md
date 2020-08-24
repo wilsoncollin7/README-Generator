@@ -5,7 +5,7 @@
   
   <img src="/photos/workingApp.gif">
   
-  ![Sample Video](/photos/workingVideo.mp4)
+  ![Sample Video](photos/workingVideo.mp4)
 
   ## Table of Contents
 
